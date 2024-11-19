@@ -3,7 +3,7 @@ Live demo here: https://salehyde.github.io/2d-game-portfolio/
 This project was completed following the video tutorial by JSLegendDev in the freeCodeCamp YouTube Channel.\
 Please check out their socials to find out more on how to set up this portfolio and other cool projects!
 
-freeCodeCamp tutorial for this project: (https://www.youtube.com/watch?v=wy_fSStEgMs&t=16s) \
+freeCodeCamp tutorial for this project: https://www.youtube.com/watch?v=wy_fSStEgMs&t=16s \
 JSLegendDev's YouTube Channel: https://www.youtube.com/@JSLegendDev
 
 # Resources
